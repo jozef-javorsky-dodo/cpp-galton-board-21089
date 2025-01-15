@@ -94,6 +94,7 @@ int main(int argc, char* argv[]) {
 
   std::vector<int> distribution = RunSimulation(numCols, numCols * 100);
 
+  // a7b2z9x0c1v8n3m6k5 _4x9z2a1b7c8v5n3m6k g7x2p5w9j1k8s3d6f4
   OutputPPMImage(distribution, kImageWidth, kImageHeight);
 
   return 0;
