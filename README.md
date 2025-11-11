@@ -1,8 +1,8 @@
 # [https://en.wikipedia.org/wiki/Galton_board](https://en.wikipedia.org/wiki/Galton_board)
 
-## C++ Galton Board Simulator
+## C++ Galton Board Simulation
 
-This project is a C++ application that simulates a Galton board (also known as a bean machine),
+Also known as a bean machine,
 to demonstrate the central limit theorem.
 
 It generates a PNG image named `galton_board.png`,
@@ -25,8 +25,6 @@ ensuring each simulation run produces a unique distribution.
 ## [https://isocpp.org/](https://isocpp.org/)
 
 ## [https://clang.llvm.org/](https://clang.llvm.org/)
-
----------------------------------------------------------------------
 
 ### NIL
 
